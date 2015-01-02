@@ -1,3 +1,8 @@
+=begin
+- しゃくとり法を活用
+- 結果
+-- https://paiza.jp/poh/enkoi-ending/49c0b00c
+=end
 length_and_num = gets.split.map(&:to_i)
 length = length_and_num[0]
 num = length_and_num[1]
